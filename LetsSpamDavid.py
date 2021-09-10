@@ -1,4 +1,4 @@
-#Fully wrote by MD5Hashm on github
+#Fully written by MD5Hashm on github
 
 import random
 import time
