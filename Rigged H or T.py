@@ -1,3 +1,5 @@
+#Fully written by MD5Hashm on github
+
 import time
 import os
 clear = lambda: os.system('cls')
