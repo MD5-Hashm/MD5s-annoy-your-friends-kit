@@ -1,3 +1,5 @@
+#Fully written by MD5Hashm on github
+
 import random
 import time
 import pynput
