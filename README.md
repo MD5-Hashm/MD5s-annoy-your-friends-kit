@@ -1,7 +1,7 @@
 # MD5s-annoy-your-friends-kit
 A bunch of shittily coded scripts to automate annoying my friends at one point or another.
 
-Keep in mind that shittily coded or not I wrote all these programs myself and if you decide to include these files in a Youtube or Reddit post for example please give me credit whether that is linking the repo or including my github username
+Keep in mind that shittily coded or not I wrote all these programs myself and if you decide to include these files in a Youtube or Reddit post for example please include some form of credit
 
 I may (probably wont) make updates to these programs and even less likely publish these changes to github but all these scripts work on windows 10 and should work on other os
 
