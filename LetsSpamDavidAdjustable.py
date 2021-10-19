@@ -1,5 +1,4 @@
-#Fully written by MD5Hashm on github
-
+#The following code has been completely written by MD5-Hashm on github
 import random
 import time
 from pynput.keyboard import Key, Controller
