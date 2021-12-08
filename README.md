@@ -1,5 +1,5 @@
 # MD5s-annoy-your-friends-kit
-A bunch of shittily coded scripts to automate annoying my friends at one point or another.
+A bunch of shittily coded scripts to automate annoying my friends.
 
 Keep in mind that shittily coded or not I wrote all these programs myself and if you decide to include these files in a Youtube or Reddit post for example please include some form of credit
 
